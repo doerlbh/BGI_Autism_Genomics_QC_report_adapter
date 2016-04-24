@@ -1,0 +1,19 @@
+# 120916_I283_FCC17T4ACXX_L1_CHKPEI12050177 HCS1.5.15.1
+              Library       CHKPEI12050177
+          RawClusters              1923878
+           PFClusters              1680984
+                  %PF                 88.0
+        FirstCycleInt            3371;2723
+           TotalReads            161374483
+           TotalBases          32274896600
+               Length              100;100
+             %Phasing          0.169;0.139
+          %Prephasing          0.248;0.209
+                 %Q20          94.44;91.84
+                 %Q30          86.49;83.97
+                  %GC          51.10;51.21
+           %ErrorRate                     
+               %Align                     
+            %UniqPair                     
+           InsertSize                     
+         InsertSizeSD                     
